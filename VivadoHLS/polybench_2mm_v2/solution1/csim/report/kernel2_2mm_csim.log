@@ -1,0 +1,30 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling(apcc) ../../../.settings/2mm_tb.c in debug mode
+INFO: [HLS 200-10] Running '/media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'hazal' on host 'hazal' (Linux_x86_64 version 5.4.0-42-generic) on Thu Aug 20 05:01:09 +03 2020
+INFO: [HLS 200-10] On os Ubuntu 18.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/hazal/Desktop/PhD/hls/polybench_2mm_v2/solution1/csim/build'
+../../../.settings/2mm_tb.c:127:33: warning: implicitly declaring library function 'pow' with type 'double (double, double)'
+                double diff = abs( (D[i][j] / pow(10, dig_num - 3)) - (swref_d[i][j] / pow(10, dig_num - 3)) );
+                                              ^
+../../../.settings/2mm_tb.c:127:33: note: please include the header <math.h> or explicitly provide a declaration for 'pow'
+1 warning generated.
+../../../.settings/2mm_tb.c:127:33: warning: implicitly declaring library function 'pow' with type 'double (double, double)'
+                double diff = abs( (D[i][j] / pow(10, dig_num - 3)) - (swref_d[i][j] / pow(10, dig_num - 3)) );
+                                              ^
+../../../.settings/2mm_tb.c:127:33: note: please include the header <math.h> or explicitly provide a declaration for 'pow'
+1 warning generated.
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_hazal/87311597888869535293
+INFO: [APCC 202-1] APCC is done.
+   Compiling(apcc) ../../../.settings/2mm.c in debug mode
+INFO: [HLS 200-10] Running '/media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'hazal' on host 'hazal' (Linux_x86_64 version 5.4.0-42-generic) on Thu Aug 20 05:01:19 +03 2020
+INFO: [HLS 200-10] On os Ubuntu 18.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/hazal/Desktop/PhD/hls/polybench_2mm_v2/solution1/csim/build'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_hazal/88051597888879290108
+INFO: [APCC 202-1] APCC is done.
+   Generating csim.exe
+There are 0 error(s) -> test PASSED
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************
