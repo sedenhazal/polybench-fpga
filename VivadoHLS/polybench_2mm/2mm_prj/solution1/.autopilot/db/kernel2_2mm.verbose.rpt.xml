@@ -1,7 +1,7 @@
 <profile>
 
 <section name = "Vivado HLS Report for 'kernel2_2mm'" level="0">
-<item name = "Date">Sun Aug 23 23:26:30 2020
+<item name = "Date">Mon Aug 24 02:49:36 2020
 </item>
 <item name = "Version">2019.1 (Build 2552052 on Fri May 24 15:28:33 MDT 2019)</item>
 <item name = "Project">2mm_prj</item>
@@ -85,24 +85,24 @@
 </item>
 <item name = "Expression"><table name="" hasTotal="1">
 <keys size="7">Variable Name, Operation, DSP48E, FF, LUT, Bitwidth P0, Bitwidth P1</keys>
-<column name="add_ln39_fu_285_p2">+, 0, 0, 19, 12, 12</column>
-<column name="add_ln41_1_fu_333_p2">+, 0, 0, 19, 12, 12</column>
-<column name="add_ln41_fu_311_p2">+, 0, 0, 19, 12, 12</column>
-<column name="add_ln46_fu_382_p2">+, 0, 0, 19, 12, 12</column>
-<column name="add_ln48_1_fu_430_p2">+, 0, 0, 19, 12, 12</column>
-<column name="add_ln48_fu_408_p2">+, 0, 0, 19, 12, 12</column>
+<column name="add_ln41_fu_285_p2">+, 0, 0, 19, 12, 12</column>
+<column name="add_ln45_1_fu_333_p2">+, 0, 0, 19, 12, 12</column>
+<column name="add_ln45_fu_311_p2">+, 0, 0, 19, 12, 12</column>
+<column name="add_ln50_fu_382_p2">+, 0, 0, 19, 12, 12</column>
+<column name="add_ln54_1_fu_430_p2">+, 0, 0, 19, 12, 12</column>
+<column name="add_ln54_fu_408_p2">+, 0, 0, 19, 12, 12</column>
 <column name="i_2_fu_348_p2">+, 0, 0, 15, 6, 1</column>
 <column name="i_fu_251_p2">+, 0, 0, 15, 6, 1</column>
 <column name="j_2_fu_372_p2">+, 0, 0, 15, 6, 1</column>
 <column name="j_fu_275_p2">+, 0, 0, 15, 6, 1</column>
 <column name="k_2_fu_398_p2">+, 0, 0, 15, 6, 1</column>
 <column name="k_fu_301_p2">+, 0, 0, 15, 6, 1</column>
-<column name="icmp_ln36_fu_245_p2">icmp, 0, 0, 11, 6, 7</column>
-<column name="icmp_ln37_fu_269_p2">icmp, 0, 0, 11, 6, 7</column>
-<column name="icmp_ln40_fu_295_p2">icmp, 0, 0, 11, 6, 7</column>
-<column name="icmp_ln43_fu_342_p2">icmp, 0, 0, 11, 6, 7</column>
-<column name="icmp_ln44_fu_366_p2">icmp, 0, 0, 11, 6, 7</column>
-<column name="icmp_ln47_fu_392_p2">icmp, 0, 0, 11, 6, 7</column>
+<column name="icmp_ln38_fu_245_p2">icmp, 0, 0, 11, 6, 7</column>
+<column name="icmp_ln39_fu_269_p2">icmp, 0, 0, 11, 6, 7</column>
+<column name="icmp_ln42_fu_295_p2">icmp, 0, 0, 11, 6, 7</column>
+<column name="icmp_ln47_fu_342_p2">icmp, 0, 0, 11, 6, 7</column>
+<column name="icmp_ln48_fu_366_p2">icmp, 0, 0, 11, 6, 7</column>
+<column name="icmp_ln51_fu_392_p2">icmp, 0, 0, 11, 6, 7</column>
 </table>
 </item>
 <item name = "Multiplexer"><table name="" hasTotal="1">
@@ -131,7 +131,7 @@
 <column name="C_load_reg_575">64, 0, 64, 0</column>
 <column name="D_addr_reg_542">10, 0, 10, 0</column>
 <column name="D_load_reg_547">64, 0, 64, 0</column>
-<column name="add_ln41_1_reg_495">12, 0, 12, 0</column>
+<column name="add_ln45_1_reg_495">12, 0, 12, 0</column>
 <column name="ap_CS_fsm">40, 0, 40, 0</column>
 <column name="empty_7_reg_570">64, 0, 64, 0</column>
 <column name="i_0_reg_132">6, 0, 6, 0</column>
@@ -151,10 +151,10 @@
 <column name="storemerge_reg_154">64, 0, 64, 0</column>
 <column name="tmp_5_reg_580">64, 0, 64, 0</column>
 <column name="tmp_addr_reg_477">10, 0, 10, 0</column>
-<column name="zext_ln37_reg_458">6, 0, 12, 6</column>
-<column name="zext_ln39_reg_472">6, 0, 12, 6</column>
-<column name="zext_ln44_reg_523">6, 0, 12, 6</column>
-<column name="zext_ln46_reg_537">6, 0, 12, 6</column>
+<column name="zext_ln39_reg_458">6, 0, 12, 6</column>
+<column name="zext_ln41_reg_472">6, 0, 12, 6</column>
+<column name="zext_ln48_reg_523">6, 0, 12, 6</column>
+<column name="zext_ln50_reg_537">6, 0, 12, 6</column>
 </table>
 </item>
 </section>

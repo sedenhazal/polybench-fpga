@@ -2,14 +2,14 @@
 // Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2019.1 (64-bit)
 // Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 // ==============================================================
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c"
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 1
+# 1 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c"
+# 1 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 1
 # 1 "<built-in>" 1
 # 1 "<built-in>" 3
 # 149 "<built-in>" 3
 # 1 "<command line>" 1
 # 1 "<built-in>" 2
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 2
+# 1 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 2
 
 
 
@@ -812,7 +812,7 @@ extern int ftrylockfile (FILE *__stream) __attribute__ ((__nothrow__ )) ;
 
 
 extern void funlockfile (FILE *__stream) __attribute__ ((__nothrow__ ));
-# 9 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 2
+# 9 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 2
 # 1 "/usr/include/unistd.h" 1 3 4
 # 205 "/usr/include/unistd.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/posix_opt.h" 1 3 4
@@ -2029,7 +2029,7 @@ extern int lockf (int __fd, int __cmd, __off_t __len) ;
 extern int fdatasync (int __fildes);
 # 1167 "/usr/include/unistd.h" 3 4
 int getentropy (void *__buffer, size_t __length) ;
-# 10 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 2
+# 10 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 2
 # 1 "/usr/include/string.h" 1 3 4
 # 26 "/usr/include/string.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -2302,7 +2302,7 @@ extern char *__stpncpy (char *__restrict __dest,
 extern char *stpncpy (char *__restrict __dest,
         const char *__restrict __src, size_t __n)
      __attribute__ ((__nothrow__ )) __attribute__ ((__nonnull__ (1, 2)));
-# 11 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 2
+# 11 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 2
 # 1 "/usr/include/math.h" 1 3 4
 # 27 "/usr/include/math.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -3168,12 +3168,12 @@ enum
 
       4
   };
-# 12 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 2
+# 12 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 2
 
 
 
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/polybench.h" 1
-# 26 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/polybench.h"
+# 1 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/polybench.h" 1
+# 26 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/polybench.h"
 # 1 "/usr/include/stdlib.h" 1 3 4
 # 25 "/usr/include/stdlib.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -4156,15 +4156,15 @@ extern int getloadavg (double __loadavg[], int __nelem)
 # 1016 "/usr/include/stdlib.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/stdlib-float.h" 1 3 4
 # 1017 "/usr/include/stdlib.h" 2 3 4
-# 27 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/polybench.h" 2
-# 199 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/polybench.h"
+# 27 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/polybench.h" 2
+# 199 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/polybench.h"
 extern void* polybench_alloc_data(unsigned long long int n, int elt_size);
-# 16 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 2
+# 16 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 2
 
 
 
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.h" 1
-# 20 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c" 2
+# 1 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.h" 1
+# 20 "/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm.c" 2
 
 
 
@@ -4181,11 +4181,15 @@ void kernel2_2mm(int ni, int nj, int nk, int nl,
   int i, j, k;
 
 
+
+
   for (i = 0; i < 32; i++)
     for (j = 0; j < 32; j++)
       {
  tmp[i][j] = 0;
  for (k = 0; k < 32; ++k)
+
+
    tmp[i][j] += alpha * A[i][k] * B[k][j];
       }
   for (i = 0; i < 32; i++)
@@ -4193,6 +4197,8 @@ void kernel2_2mm(int ni, int nj, int nk, int nl,
       {
  D[i][j] *= beta;
  for (k = 0; k < 32; ++k)
+
+
    D[i][j] += tmp[i][k] * C[k][j];
       }
 

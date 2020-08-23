@@ -1,6 +1,6 @@
 INFO: [HLS 200-10] Running '/media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/apcc'
-INFO: [HLS 200-10] For user 'hazal' on host 'hazal' (Linux_x86_64 version 5.4.0-42-generic) on Sun Aug 23 23:26:17 +03 2020
+INFO: [HLS 200-10] For user 'hazal' on host 'hazal' (Linux_x86_64 version 5.4.0-42-generic) on Mon Aug 24 02:49:23 +03 2020
 INFO: [HLS 200-10] On os Ubuntu 18.04.4 LTS
-INFO: [HLS 200-10] In directory '/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/csim/build'
-INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_hazal/88571598214378017256
+INFO: [HLS 200-10] In directory '/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm_prj/solution1/csim/build'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_hazal/148711598226563268248
 INFO: [APCC 202-1] APCC is done.

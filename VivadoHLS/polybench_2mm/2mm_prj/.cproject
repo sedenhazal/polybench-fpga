@@ -167,9 +167,9 @@
                                 								
                                 <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/include"/>
                                 								
-                                <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/lnx64/tools/auto_cc/include"/>
+                                <listOptionValue builtIn="false" value="/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm"/>
                                 								
-                                <listOptionValue builtIn="false" value="/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj"/>
+                                <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/lnx64/tools/auto_cc/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/include/ap_sysc"/>
                                 								
@@ -189,7 +189,7 @@
                     					
                     <sourceEntries>
                         						
-                        <entry excluding="solution1|solution2|*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="solution1|*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                         					
                     </sourceEntries>
                     				
@@ -345,9 +345,9 @@
                                 								
                                 <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/include"/>
                                 								
-                                <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/lnx64/tools/auto_cc/include"/>
+                                <listOptionValue builtIn="false" value="/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm"/>
                                 								
-                                <listOptionValue builtIn="false" value="/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj"/>
+                                <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/lnx64/tools/auto_cc/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="/media/hazal/storage/xilinx/Vivado/2019.1/include/ap_sysc"/>
                                 								
@@ -367,7 +367,7 @@
                     					
                     <sourceEntries>
                         						
-                        <entry excluding="solution1|solution2|*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="solution1|*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                         					
                     </sourceEntries>
                     				

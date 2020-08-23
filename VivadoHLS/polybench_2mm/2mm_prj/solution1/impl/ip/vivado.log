@@ -2,12 +2,12 @@
 # Vivado v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Sun Aug 23 23:33:15 2020
-# Process ID: 9500
-# Current directory: /home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/impl/ip
+# Start of session at: Mon Aug 24 02:56:56 2020
+# Process ID: 15554
+# Current directory: /home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm_prj/solution1/impl/ip
 # Command line: vivado -notrace -mode batch -source run_ippack.tcl
-# Log file: /home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/impl/ip/vivado.log
-# Journal file: /home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/impl/ip/vivado.jou
+# Log file: /home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm_prj/solution1/impl/ip/vivado.log
+# Journal file: /home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm_prj/solution1/impl/ip/vivado.jou
 #-----------------------------------------------------------
 source run_ippack.tcl -notrace
 INFO: [IP_Flow 19-234] Refreshing IP repositories
@@ -22,4 +22,4 @@ INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'kernel2_2mm_ap_dm
 INFO: [IP_Flow 19-234] Refreshing IP repositories
 INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/media/hazal/storage/xilinx/Vivado/2019.1/data/ip'.
-INFO: [Common 17-206] Exiting Vivado at Sun Aug 23 23:33:31 2020...
+INFO: [Common 17-206] Exiting Vivado at Mon Aug 24 02:57:12 2020...

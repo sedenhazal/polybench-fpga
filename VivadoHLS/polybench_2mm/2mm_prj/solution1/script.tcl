@@ -10,7 +10,6 @@ add_files -tb 2mm_tb.c -cflags "-Wno-unknown-pragmas" -csimflags "-Wno-unknown-p
 open_solution "solution1"
 set_part {xc7k160t-fbg484-2} -tool vivado
 create_clock -period 10 -name default
-config_export -format ip_catalog
 #source "./2mm_prj/solution1/directives.tcl"
 csim_design
 csynth_design

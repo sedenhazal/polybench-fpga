@@ -336,7 +336,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item class_id="10" tracking_level="0" version="0">
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second class_id="11" tracking_level="0" version="0">
                     <count>1</count>
                     <item_version>0</item_version>
@@ -385,7 +385,7 @@
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -425,16 +425,16 @@
             <Obj>
               <type>0</type>
               <id>26</id>
-              <name>_ln36</name>
+              <name>_ln38</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>36</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -443,7 +443,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>36</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
@@ -510,16 +510,16 @@
             <Obj>
               <type>0</type>
               <id>29</id>
-              <name>icmp_ln36</name>
+              <name>icmp_ln38</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>36</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -528,13 +528,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>36</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln36_fu_245_p2</rtlName>
+              <rtlName>icmp_ln38_fu_245_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -562,13 +562,13 @@
               <name>i</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>36</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -577,7 +577,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>36</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
@@ -608,16 +608,16 @@
             <Obj>
               <type>0</type>
               <id>32</id>
-              <name>_ln36</name>
+              <name>_ln38</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>36</lineNumber>
+              <lineNumber>38</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -626,7 +626,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>36</second>
+                      <second>38</second>
                     </item>
                   </second>
                 </item>
@@ -661,13 +661,13 @@
               <name>tmp_7</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>41</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -676,7 +676,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>39</second>
+                      <second>41</second>
                     </item>
                   </second>
                 </item>
@@ -708,16 +708,16 @@
             <Obj>
               <type>0</type>
               <id>35</id>
-              <name>zext_ln37</name>
+              <name>zext_ln39</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>39</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -726,13 +726,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>37</second>
+                      <second>39</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln37_fu_265_p1</rtlName>
+              <rtlName>zext_ln39_fu_265_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -756,16 +756,16 @@
             <Obj>
               <type>0</type>
               <id>36</id>
-              <name>_ln37</name>
+              <name>_ln39</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>39</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -774,7 +774,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>37</second>
+                      <second>39</second>
                     </item>
                   </second>
                 </item>
@@ -841,16 +841,16 @@
             <Obj>
               <type>0</type>
               <id>39</id>
-              <name>icmp_ln37</name>
+              <name>icmp_ln39</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>39</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -859,13 +859,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>37</second>
+                      <second>39</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln37_fu_269_p2</rtlName>
+              <rtlName>icmp_ln39_fu_269_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -893,13 +893,13 @@
               <name>j</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>39</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -908,7 +908,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>37</second>
+                      <second>39</second>
                     </item>
                   </second>
                 </item>
@@ -939,16 +939,16 @@
             <Obj>
               <type>0</type>
               <id>42</id>
-              <name>_ln37</name>
+              <name>_ln39</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>37</lineNumber>
+              <lineNumber>39</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -957,7 +957,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>37</second>
+                      <second>39</second>
                     </item>
                   </second>
                 </item>
@@ -989,16 +989,16 @@
             <Obj>
               <type>0</type>
               <id>44</id>
-              <name>zext_ln39</name>
+              <name>zext_ln41</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>41</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1007,13 +1007,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>39</second>
+                      <second>41</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln39_fu_281_p1</rtlName>
+              <rtlName>zext_ln41_fu_281_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -1037,16 +1037,16 @@
             <Obj>
               <type>0</type>
               <id>45</id>
-              <name>add_ln39</name>
+              <name>add_ln41</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>41</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1055,13 +1055,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>39</second>
+                      <second>41</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln39_fu_285_p2</rtlName>
+              <rtlName>add_ln41_fu_285_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -1086,16 +1086,16 @@
             <Obj>
               <type>0</type>
               <id>46</id>
-              <name>zext_ln39_1</name>
+              <name>zext_ln41_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>41</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1104,13 +1104,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>39</second>
+                      <second>41</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln39_1_fu_290_p1</rtlName>
+              <rtlName>zext_ln41_1_fu_290_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>64</bitwidth>
@@ -1137,13 +1137,13 @@
               <name>tmp_addr</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>39</lineNumber>
+              <lineNumber>41</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1152,7 +1152,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>39</second>
+                      <second>41</second>
                     </item>
                   </second>
                 </item>
@@ -1184,16 +1184,16 @@
             <Obj>
               <type>0</type>
               <id>48</id>
-              <name>_ln40</name>
+              <name>_ln42</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>40</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1202,7 +1202,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>40</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -1235,13 +1235,13 @@
               <name>storemerge</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1250,7 +1250,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -1320,16 +1320,16 @@
             <Obj>
               <type>0</type>
               <id>52</id>
-              <name>tmp_addr_write_ln41</name>
+              <name>tmp_addr_write_ln45</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1338,7 +1338,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -1369,16 +1369,16 @@
             <Obj>
               <type>0</type>
               <id>53</id>
-              <name>icmp_ln40</name>
+              <name>icmp_ln42</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>40</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1387,13 +1387,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>40</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln40_fu_295_p2</rtlName>
+              <rtlName>icmp_ln42_fu_295_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -1421,13 +1421,13 @@
               <name>k</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>40</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1436,7 +1436,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>40</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -1467,16 +1467,16 @@
             <Obj>
               <type>0</type>
               <id>56</id>
-              <name>_ln40</name>
+              <name>_ln42</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>40</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1485,7 +1485,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>40</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -1517,16 +1517,16 @@
             <Obj>
               <type>0</type>
               <id>58</id>
-              <name>zext_ln41</name>
+              <name>zext_ln45</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1535,13 +1535,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln41_fu_307_p1</rtlName>
+              <rtlName>zext_ln45_fu_307_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -1565,16 +1565,16 @@
             <Obj>
               <type>0</type>
               <id>59</id>
-              <name>add_ln41</name>
+              <name>add_ln45</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1583,13 +1583,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln41_fu_311_p2</rtlName>
+              <rtlName>add_ln45_fu_311_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -1614,16 +1614,16 @@
             <Obj>
               <type>0</type>
               <id>60</id>
-              <name>zext_ln41_1</name>
+              <name>zext_ln45_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1632,13 +1632,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln41_1_fu_316_p1</rtlName>
+              <rtlName>zext_ln45_1_fu_316_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>64</bitwidth>
@@ -1665,13 +1665,13 @@
               <name>A_addr</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1680,7 +1680,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -1715,13 +1715,13 @@
               <name>tmp_9</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1730,7 +1730,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -1762,16 +1762,16 @@
             <Obj>
               <type>0</type>
               <id>63</id>
-              <name>zext_ln41_2</name>
+              <name>zext_ln45_2</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1780,13 +1780,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln41_2_fu_329_p1</rtlName>
+              <rtlName>zext_ln45_2_fu_329_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -1810,16 +1810,16 @@
             <Obj>
               <type>0</type>
               <id>64</id>
-              <name>add_ln41_1</name>
+              <name>add_ln45_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1828,13 +1828,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln41_1_fu_333_p2</rtlName>
+              <rtlName>add_ln45_1_fu_333_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -1859,16 +1859,16 @@
             <Obj>
               <type>0</type>
               <id>65</id>
-              <name>zext_ln41_3</name>
+              <name>zext_ln45_3</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1877,13 +1877,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln41_3_fu_338_p1</rtlName>
+              <rtlName>zext_ln45_3_fu_338_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>64</bitwidth>
@@ -1910,13 +1910,13 @@
               <name>B_addr</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1925,7 +1925,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -1960,13 +1960,13 @@
               <name>A_load</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -1975,7 +1975,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -2008,13 +2008,13 @@
               <name>tmp_2</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2023,7 +2023,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -2057,13 +2057,13 @@
               <name>B_load</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2072,7 +2072,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -2105,13 +2105,13 @@
               <name>tmp_3</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2120,7 +2120,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -2154,13 +2154,13 @@
               <name>tmp_4</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>41</lineNumber>
+              <lineNumber>45</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2169,7 +2169,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>41</second>
+                      <second>45</second>
                     </item>
                   </second>
                 </item>
@@ -2200,16 +2200,16 @@
             <Obj>
               <type>0</type>
               <id>72</id>
-              <name>_ln40</name>
+              <name>_ln42</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>40</lineNumber>
+              <lineNumber>42</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2218,7 +2218,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>40</second>
+                      <second>42</second>
                     </item>
                   </second>
                 </item>
@@ -2316,16 +2316,16 @@
             <Obj>
               <type>0</type>
               <id>78</id>
-              <name>_ln43</name>
+              <name>_ln47</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>47</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2334,7 +2334,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>43</second>
+                      <second>47</second>
                     </item>
                   </second>
                 </item>
@@ -2401,16 +2401,16 @@
             <Obj>
               <type>0</type>
               <id>81</id>
-              <name>icmp_ln43</name>
+              <name>icmp_ln47</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>47</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2419,13 +2419,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>43</second>
+                      <second>47</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln43_fu_342_p2</rtlName>
+              <rtlName>icmp_ln47_fu_342_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -2453,13 +2453,13 @@
               <name>i_2</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>47</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2468,7 +2468,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>43</second>
+                      <second>47</second>
                     </item>
                   </second>
                 </item>
@@ -2499,16 +2499,16 @@
             <Obj>
               <type>0</type>
               <id>84</id>
-              <name>_ln43</name>
+              <name>_ln47</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>43</lineNumber>
+              <lineNumber>47</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2517,7 +2517,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>43</second>
+                      <second>47</second>
                     </item>
                   </second>
                 </item>
@@ -2552,13 +2552,13 @@
               <name>tmp_8</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2567,7 +2567,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -2599,16 +2599,16 @@
             <Obj>
               <type>0</type>
               <id>87</id>
-              <name>zext_ln44</name>
+              <name>zext_ln48</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>48</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2617,13 +2617,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>44</second>
+                      <second>48</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln44_fu_362_p1</rtlName>
+              <rtlName>zext_ln48_fu_362_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -2647,16 +2647,16 @@
             <Obj>
               <type>0</type>
               <id>88</id>
-              <name>_ln44</name>
+              <name>_ln48</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>48</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2665,7 +2665,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>44</second>
+                      <second>48</second>
                     </item>
                   </second>
                 </item>
@@ -2732,16 +2732,16 @@
             <Obj>
               <type>0</type>
               <id>91</id>
-              <name>icmp_ln44</name>
+              <name>icmp_ln48</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>48</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2750,13 +2750,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>44</second>
+                      <second>48</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln44_fu_366_p2</rtlName>
+              <rtlName>icmp_ln48_fu_366_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -2784,13 +2784,13 @@
               <name>j_2</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>48</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2799,7 +2799,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>44</second>
+                      <second>48</second>
                     </item>
                   </second>
                 </item>
@@ -2830,16 +2830,16 @@
             <Obj>
               <type>0</type>
               <id>94</id>
-              <name>_ln44</name>
+              <name>_ln48</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>44</lineNumber>
+              <lineNumber>48</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2848,7 +2848,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>44</second>
+                      <second>48</second>
                     </item>
                   </second>
                 </item>
@@ -2880,16 +2880,16 @@
             <Obj>
               <type>0</type>
               <id>96</id>
-              <name>zext_ln46</name>
+              <name>zext_ln50</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2898,13 +2898,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>46</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln46_fu_378_p1</rtlName>
+              <rtlName>zext_ln50_fu_378_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -2928,16 +2928,16 @@
             <Obj>
               <type>0</type>
               <id>97</id>
-              <name>add_ln46</name>
+              <name>add_ln50</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2946,13 +2946,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>46</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln46_fu_382_p2</rtlName>
+              <rtlName>add_ln50_fu_382_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -2977,16 +2977,16 @@
             <Obj>
               <type>0</type>
               <id>98</id>
-              <name>zext_ln46_1</name>
+              <name>zext_ln50_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -2995,13 +2995,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>46</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln46_1_fu_387_p1</rtlName>
+              <rtlName>zext_ln50_1_fu_387_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>64</bitwidth>
@@ -3028,13 +3028,13 @@
               <name>D_addr</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3043,7 +3043,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>46</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -3078,13 +3078,13 @@
               <name>D_load</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3093,7 +3093,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>46</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -3126,13 +3126,13 @@
               <name>tmp_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3141,7 +3141,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>46</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -3172,16 +3172,16 @@
             <Obj>
               <type>0</type>
               <id>102</id>
-              <name>_ln47</name>
+              <name>_ln51</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>51</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3190,7 +3190,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>47</second>
+                      <second>51</second>
                     </item>
                   </second>
                 </item>
@@ -3223,13 +3223,13 @@
               <name>storemerge1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>46</lineNumber>
+              <lineNumber>50</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3238,7 +3238,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>46</second>
+                      <second>50</second>
                     </item>
                   </second>
                 </item>
@@ -3308,16 +3308,16 @@
             <Obj>
               <type>0</type>
               <id>106</id>
-              <name>D_addr_write_ln48</name>
+              <name>D_addr_write_ln54</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3326,7 +3326,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -3357,16 +3357,16 @@
             <Obj>
               <type>0</type>
               <id>107</id>
-              <name>icmp_ln47</name>
+              <name>icmp_ln51</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>51</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3375,13 +3375,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>47</second>
+                      <second>51</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>icmp_ln47_fu_392_p2</rtlName>
+              <rtlName>icmp_ln51_fu_392_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>1</bitwidth>
@@ -3409,13 +3409,13 @@
               <name>k_2</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>51</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3424,7 +3424,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>47</second>
+                      <second>51</second>
                     </item>
                   </second>
                 </item>
@@ -3455,16 +3455,16 @@
             <Obj>
               <type>0</type>
               <id>110</id>
-              <name>_ln47</name>
+              <name>_ln51</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>51</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3473,7 +3473,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>47</second>
+                      <second>51</second>
                     </item>
                   </second>
                 </item>
@@ -3505,16 +3505,16 @@
             <Obj>
               <type>0</type>
               <id>112</id>
-              <name>zext_ln48</name>
+              <name>zext_ln54</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3523,13 +3523,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln48_fu_404_p1</rtlName>
+              <rtlName>zext_ln54_fu_404_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -3553,16 +3553,16 @@
             <Obj>
               <type>0</type>
               <id>113</id>
-              <name>add_ln48</name>
+              <name>add_ln54</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3571,13 +3571,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln48_fu_408_p2</rtlName>
+              <rtlName>add_ln54_fu_408_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -3602,16 +3602,16 @@
             <Obj>
               <type>0</type>
               <id>114</id>
-              <name>zext_ln48_1</name>
+              <name>zext_ln54_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3620,13 +3620,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln48_1_fu_413_p1</rtlName>
+              <rtlName>zext_ln54_1_fu_413_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>64</bitwidth>
@@ -3653,13 +3653,13 @@
               <name>tmp_addr_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3668,7 +3668,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -3703,13 +3703,13 @@
               <name>tmp_s</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3718,7 +3718,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -3750,16 +3750,16 @@
             <Obj>
               <type>0</type>
               <id>117</id>
-              <name>zext_ln48_2</name>
+              <name>zext_ln54_2</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3768,13 +3768,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln48_2_fu_426_p1</rtlName>
+              <rtlName>zext_ln54_2_fu_426_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -3798,16 +3798,16 @@
             <Obj>
               <type>0</type>
               <id>118</id>
-              <name>add_ln48_1</name>
+              <name>add_ln54_1</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3816,13 +3816,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>add_ln48_1_fu_430_p2</rtlName>
+              <rtlName>add_ln54_1_fu_430_p2</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>12</bitwidth>
@@ -3847,16 +3847,16 @@
             <Obj>
               <type>0</type>
               <id>119</id>
-              <name>zext_ln48_3</name>
+              <name>zext_ln54_3</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3865,13 +3865,13 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
               </inlineStackInfo>
               <originalName/>
-              <rtlName>zext_ln48_3_fu_435_p1</rtlName>
+              <rtlName>zext_ln54_3_fu_435_p1</rtlName>
               <coreName/>
             </Obj>
             <bitwidth>64</bitwidth>
@@ -3898,13 +3898,13 @@
               <name>C_addr</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3913,7 +3913,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -3948,13 +3948,13 @@
               <name>empty_7</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -3963,7 +3963,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -3996,13 +3996,13 @@
               <name>C_load</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4011,7 +4011,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -4044,13 +4044,13 @@
               <name>tmp_5</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4059,7 +4059,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -4093,13 +4093,13 @@
               <name>tmp_6</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>48</lineNumber>
+              <lineNumber>54</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4108,7 +4108,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>48</second>
+                      <second>54</second>
                     </item>
                   </second>
                 </item>
@@ -4139,16 +4139,16 @@
             <Obj>
               <type>0</type>
               <id>125</id>
-              <name>_ln47</name>
+              <name>_ln51</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>47</lineNumber>
+              <lineNumber>51</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4157,7 +4157,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>47</second>
+                      <second>51</second>
                     </item>
                   </second>
                 </item>
@@ -4255,16 +4255,16 @@
             <Obj>
               <type>0</type>
               <id>131</id>
-              <name>_ln51</name>
+              <name>_ln57</name>
               <fileName>2mm.c</fileName>
               <fileDirectory>..</fileDirectory>
-              <lineNumber>51</lineNumber>
+              <lineNumber>57</lineNumber>
               <contextFuncName>kernel2_2mm</contextFuncName>
               <inlineStackInfo>
                 <count>1</count>
                 <item_version>0</item_version>
                 <item>
-                  <first>/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj</first>
+                  <first>/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm</first>
                   <second>
                     <count>1</count>
                     <item_version>0</item_version>
@@ -4273,7 +4273,7 @@
                         <first>2mm.c</first>
                         <second>kernel2_2mm</second>
                       </first>
-                      <second>51</second>
+                      <second>57</second>
                     </item>
                   </second>
                 </item>
@@ -8408,7 +8408,7 @@
         <count>18</count>
         <item_version>0</item_version>
         <item>
-          <first>add_ln39_fu_285_p2 ( + ) </first>
+          <first>add_ln41_fu_285_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8431,7 +8431,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln41_1_fu_333_p2 ( + ) </first>
+          <first>add_ln45_1_fu_333_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8454,7 +8454,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln41_fu_311_p2 ( + ) </first>
+          <first>add_ln45_fu_311_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8477,7 +8477,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln46_fu_382_p2 ( + ) </first>
+          <first>add_ln50_fu_382_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8500,7 +8500,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln48_1_fu_430_p2 ( + ) </first>
+          <first>add_ln54_1_fu_430_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8523,7 +8523,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln48_fu_408_p2 ( + ) </first>
+          <first>add_ln54_fu_408_p2 ( + ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8592,7 +8592,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln36_fu_245_p2 ( icmp ) </first>
+          <first>icmp_ln38_fu_245_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8615,7 +8615,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln37_fu_269_p2 ( icmp ) </first>
+          <first>icmp_ln39_fu_269_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8638,7 +8638,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln40_fu_295_p2 ( icmp ) </first>
+          <first>icmp_ln42_fu_295_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8661,7 +8661,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln43_fu_342_p2 ( icmp ) </first>
+          <first>icmp_ln47_fu_342_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8684,7 +8684,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln44_fu_366_p2 ( icmp ) </first>
+          <first>icmp_ln48_fu_366_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -8707,7 +8707,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln47_fu_392_p2 ( icmp ) </first>
+          <first>icmp_ln51_fu_392_p2 ( icmp ) </first>
           <second>
             <count>4</count>
             <item_version>0</item_version>
@@ -9278,7 +9278,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln41_1_reg_495</first>
+          <first>add_ln45_1_reg_495</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -9658,7 +9658,7 @@
           </second>
         </item>
         <item>
-          <first>zext_ln37_reg_458</first>
+          <first>zext_ln39_reg_458</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -9677,7 +9677,7 @@
           </second>
         </item>
         <item>
-          <first>zext_ln39_reg_472</first>
+          <first>zext_ln41_reg_472</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -9696,7 +9696,7 @@
           </second>
         </item>
         <item>
-          <first>zext_ln44_reg_523</first>
+          <first>zext_ln48_reg_523</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -9715,7 +9715,7 @@
           </second>
         </item>
         <item>
-          <first>zext_ln46_reg_537</first>
+          <first>zext_ln50_reg_537</first>
           <second>
             <count>3</count>
             <item_version>0</item_version>
@@ -9780,7 +9780,7 @@
         <count>18</count>
         <item_version>0</item_version>
         <item>
-          <first>add_ln39_fu_285_p2 ( + ) </first>
+          <first>add_ln41_fu_285_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9788,7 +9788,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln41_1_fu_333_p2 ( + ) </first>
+          <first>add_ln45_1_fu_333_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9796,7 +9796,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln41_fu_311_p2 ( + ) </first>
+          <first>add_ln45_fu_311_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9804,7 +9804,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln46_fu_382_p2 ( + ) </first>
+          <first>add_ln50_fu_382_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9812,7 +9812,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln48_1_fu_430_p2 ( + ) </first>
+          <first>add_ln54_1_fu_430_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9820,7 +9820,7 @@
           </second>
         </item>
         <item>
-          <first>add_ln48_fu_408_p2 ( + ) </first>
+          <first>add_ln54_fu_408_p2 ( + ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9844,7 +9844,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln36_fu_245_p2 ( icmp ) </first>
+          <first>icmp_ln38_fu_245_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9852,7 +9852,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln37_fu_269_p2 ( icmp ) </first>
+          <first>icmp_ln39_fu_269_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9860,7 +9860,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln40_fu_295_p2 ( icmp ) </first>
+          <first>icmp_ln42_fu_295_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9868,7 +9868,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln43_fu_342_p2 ( icmp ) </first>
+          <first>icmp_ln47_fu_342_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9876,7 +9876,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln44_fu_366_p2 ( icmp ) </first>
+          <first>icmp_ln48_fu_366_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -9884,7 +9884,7 @@
           </second>
         </item>
         <item>
-          <first>icmp_ln47_fu_392_p2 ( icmp ) </first>
+          <first>icmp_ln51_fu_392_p2 ( icmp ) </first>
           <second>
             <count>1</count>
             <item_version>0</item_version>
@@ -11213,7 +11213,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln39_fu_285</first>
+        <first>add_ln41_fu_285</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11221,7 +11221,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln41_1_fu_333</first>
+        <first>add_ln45_1_fu_333</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11229,7 +11229,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln41_fu_311</first>
+        <first>add_ln45_fu_311</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11237,7 +11237,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln46_fu_382</first>
+        <first>add_ln50_fu_382</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11245,7 +11245,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln48_1_fu_430</first>
+        <first>add_ln54_1_fu_430</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11253,7 +11253,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln48_fu_408</first>
+        <first>add_ln54_fu_408</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11293,7 +11293,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln36_fu_245</first>
+        <first>icmp_ln38_fu_245</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11301,7 +11301,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln37_fu_269</first>
+        <first>icmp_ln39_fu_269</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11309,7 +11309,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln40_fu_295</first>
+        <first>icmp_ln42_fu_295</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11317,7 +11317,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln43_fu_342</first>
+        <first>icmp_ln47_fu_342</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11325,7 +11325,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln44_fu_366</first>
+        <first>icmp_ln48_fu_366</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11333,7 +11333,7 @@
         </second>
       </item>
       <item>
-        <first>icmp_ln47_fu_392</first>
+        <first>icmp_ln51_fu_392</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11469,7 +11469,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_fu_265</first>
+        <first>zext_ln39_fu_265</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11477,7 +11477,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln39_1_fu_290</first>
+        <first>zext_ln41_1_fu_290</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11485,7 +11485,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln39_fu_281</first>
+        <first>zext_ln41_fu_281</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11493,7 +11493,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln41_1_fu_316</first>
+        <first>zext_ln45_1_fu_316</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11501,7 +11501,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln41_2_fu_329</first>
+        <first>zext_ln45_2_fu_329</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11509,7 +11509,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln41_3_fu_338</first>
+        <first>zext_ln45_3_fu_338</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11517,7 +11517,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln41_fu_307</first>
+        <first>zext_ln45_fu_307</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11525,7 +11525,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_fu_362</first>
+        <first>zext_ln48_fu_362</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11533,7 +11533,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln46_1_fu_387</first>
+        <first>zext_ln50_1_fu_387</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11541,7 +11541,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln46_fu_378</first>
+        <first>zext_ln50_fu_378</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11549,7 +11549,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln48_1_fu_413</first>
+        <first>zext_ln54_1_fu_413</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11557,7 +11557,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln48_2_fu_426</first>
+        <first>zext_ln54_2_fu_426</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11565,7 +11565,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln48_3_fu_435</first>
+        <first>zext_ln54_3_fu_435</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -11573,7 +11573,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln48_fu_404</first>
+        <first>zext_ln54_fu_404</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -12074,7 +12074,7 @@
         </second>
       </item>
       <item>
-        <first>add_ln41_1_reg_495</first>
+        <first>add_ln45_1_reg_495</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -12261,7 +12261,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln37_reg_458</first>
+        <first>zext_ln39_reg_458</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -12269,7 +12269,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln39_reg_472</first>
+        <first>zext_ln41_reg_472</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -12277,7 +12277,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln44_reg_523</first>
+        <first>zext_ln48_reg_523</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>
@@ -12285,7 +12285,7 @@
         </second>
       </item>
       <item>
-        <first>zext_ln46_reg_537</first>
+        <first>zext_ln50_reg_537</first>
         <second>
           <count>1</count>
           <item_version>0</item_version>

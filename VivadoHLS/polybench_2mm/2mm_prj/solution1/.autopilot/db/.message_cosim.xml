@@ -3,16 +3,16 @@
 	<Message severity="INFO" prefix="[COSIM 212-47]" key="COSIM_TCL_47_1115" tag="" content="Using XSIM for RTL simulation."/>
 	<Message severity="INFO" prefix="[COSIM 212-14]" key="COSIM_TCL_14_1084" tag="" content="Instrumenting C test bench ..."/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1427" tag="" content="Running &apos;/media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/apcc&apos;"/>
-	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1428" tag="" content="For user &apos;hazal&apos; on host &apos;hazal&apos; (Linux_x86_64 version 5.4.0-42-generic) on Sun Aug 23 23:26:39 +03 2020"/>
+	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1428" tag="" content="For user &apos;hazal&apos; on host &apos;hazal&apos; (Linux_x86_64 version 5.4.0-42-generic) on Mon Aug 24 02:49:47 +03 2020"/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1429" tag="" content="On os Ubuntu 18.04.4 LTS"/>
-	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1430" tag="" content="In directory &apos;/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/wrapc&apos;"/>
-	<Message severity="INFO" prefix="[APCC 202-3]" key="APCC_3_1610" tag="" content="Tmp directory is /tmp/apcc_db_hazal/89941598214399657014"/>
+	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1430" tag="" content="In directory &apos;/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm_prj/solution1/sim/wrapc&apos;"/>
+	<Message severity="INFO" prefix="[APCC 202-3]" key="APCC_3_1610" tag="" content="Tmp directory is /tmp/apcc_db_hazal/150081598226587516530"/>
 	<Message severity="INFO" prefix="[APCC 202-1]" key="APCC_1_1611" tag="" content="APCC is done."/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1427" tag="" content="Running &apos;/media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/apcc&apos;"/>
-	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1428" tag="" content="For user &apos;hazal&apos; on host &apos;hazal&apos; (Linux_x86_64 version 5.4.0-42-generic) on Sun Aug 23 23:26:46 +03 2020"/>
+	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1428" tag="" content="For user &apos;hazal&apos; on host &apos;hazal&apos; (Linux_x86_64 version 5.4.0-42-generic) on Mon Aug 24 02:49:55 +03 2020"/>
 	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1429" tag="" content="On os Ubuntu 18.04.4 LTS"/>
-	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1430" tag="" content="In directory &apos;/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/wrapc&apos;"/>
-	<Message severity="INFO" prefix="[APCC 202-3]" key="APCC_3_1610" tag="" content="Tmp directory is /tmp/apcc_db_hazal/90651598214406918709"/>
+	<Message severity="INFO" prefix="[HLS 200-10]" key="HLS_10_1430" tag="" content="In directory &apos;/home/hazal/Desktop/PhD/polybench-fpga/VivadoHLS/polybench_2mm/2mm_prj/solution1/sim/wrapc&apos;"/>
+	<Message severity="INFO" prefix="[APCC 202-3]" key="APCC_3_1610" tag="" content="Tmp directory is /tmp/apcc_db_hazal/150791598226595558598"/>
 	<Message severity="INFO" prefix="[APCC 202-1]" key="APCC_1_1611" tag="" content="APCC is done."/>
 	<Message severity="INFO" prefix="[COSIM 212-302]" key="COSIM_TCL_302_1177" tag="" content="Starting C TB testing ..."/>
 	<Message severity="INFO" prefix="[COSIM 212-333]" key="COSIM_TCL_333_1204" tag="" content="Generating C post check test bench ..."/>

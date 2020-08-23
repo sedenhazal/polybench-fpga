@@ -4307,11 +4307,15 @@ void kernel2_2mm(int ni, int nj, int nk, int nl,
   int i, j, k;
 
 
+
+
   for (i = 0; i < 32; i++)
     for (j = 0; j < 32; j++)
       {
  tmp[i][j] = 0;
  for (k = 0; k < 32; ++k)
+
+
    tmp[i][j] += alpha * A[i][k] * B[k][j];
       }
   for (i = 0; i < 32; i++)
@@ -4319,6 +4323,8 @@ void kernel2_2mm(int ni, int nj, int nk, int nl,
       {
  D[i][j] *= beta;
  for (k = 0; k < 32; ++k)
+
+
    D[i][j] += tmp[i][k] * C[k][j];
       }
 
