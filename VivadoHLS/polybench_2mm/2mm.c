@@ -1,54 +1,57 @@
 /**
- * 2mm.c: This file is part of the PolyBench/C 3.2 test suite.
+ * 2mm.c: this file is part of the polybench/c 3.2 test suite.
  *
  *
- * Contact: Louis-Noel Pouchet <pouchet@cse.ohio-state.edu>
- * Web address: http://polybench.sourceforge.net
+ * contact: louis-noel pouchet <pouchet@cse.ohio-state.edu>
+ * web address: http://polybench.sourceforge.net
  */
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
 #include <math.h>
 
-/* Include polybench common header. */
-#define MINI_DATASET
+/* include polybench common header. */
+#define mini_dataset
 #include "polybench.h"
 
-/* Include benchmark-specific header. */
-/* Default data type is double, default size is 4000. */
+/* include benchmark-specific header. */
+/* default data type is double, default size is 4000. */
 #include "2mm.h"
 
 
 
 /*   hazalg */
 void kernel2_2mm(int ni, int nj, int nk, int nl,
-		DATA_TYPE alpha,
-		DATA_TYPE beta,
-		DATA_TYPE tmp[NI][NJ],
-		DATA_TYPE A[NI][NK],
-		DATA_TYPE B[NK][NJ],
-		DATA_TYPE C[NL][NJ],
-		DATA_TYPE D[NI][NL])
+		data_type alpha,
+		data_type beta,
+		data_type tmp[ni][nj],
+		data_type a[ni][nk],
+		data_type b[nk][nj],
+		data_type c[nl][nj],
+		data_type d[ni][nl])
 {
   int i, j, k;
    
   //directive1
-  /* D := alpha*A*B*C + beta*D */
-  for (i = 0; i < NI; i++)
-    for (j = 0; j < NJ; j++)
+#pragma HLS unroll
+  /* d := alpha*a*b*c + beta*d */
+  for (i = 0; i < ni; i++)
+    for (j = 0; j < nj; j++)
       {
 	tmp[i][j] = 0;
-	for (k = 0; k < NK; ++k)
+	for (k = 0; k < nk; ++k)
           //directive2
-	  tmp[i][j] += alpha * A[i][k] * B[k][j];
+#pragma HLS unroll
+	  tmp[i][j] += alpha * a[i][k] * b[k][j];
       }
-  for (i = 0; i < NI; i++)
-    for (j = 0; j < NL; j++)
+  for (i = 0; i < ni; i++)
+    for (j = 0; j < nl; j++)
       {
-	D[i][j] *= beta;
-	for (k = 0; k < NJ; ++k)
-          //directive2
-	  D[i][j] += tmp[i][k] * C[k][j];
+	d[i][j] *= beta;
+	for (k = 0; k < nj; ++k)
+          //directive3
+#pragma HLS unroll
+	  d[i][j] += tmp[i][k] * c[k][j];
       }
 
 }

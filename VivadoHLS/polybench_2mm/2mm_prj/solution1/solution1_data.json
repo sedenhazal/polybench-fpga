@@ -187,9 +187,9 @@
       "impl\/misc\/kernel2_2mm_ap_dadd_3_full_dsp_64_ip.tcl",
       "impl\/misc\/kernel2_2mm_ap_dmul_3_max_dsp_64_ip.tcl"
     ],
-    "DesignXml": "\/home\/hazal\/Desktop\/PhD\/hls\/polybench_2mm_v4\/2mm_prj\/solution1\/.autopilot\/db\/kernel2_2mm.design.xml",
-    "DebugDir": "\/home\/hazal\/Desktop\/PhD\/hls\/polybench_2mm_v4\/2mm_prj\/solution1\/.debug",
-    "ProtoInst": ["\/home\/hazal\/Desktop\/PhD\/hls\/polybench_2mm_v4\/2mm_prj\/solution1\/.debug\/kernel2_2mm.protoinst"]
+    "DesignXml": "\/home\/hazal\/Desktop\/PhD\/hls\/polybench_2mm_v4\/2mm_tcl_prj\/2mm_prj\/solution1\/.autopilot\/db\/kernel2_2mm.design.xml",
+    "DebugDir": "\/home\/hazal\/Desktop\/PhD\/hls\/polybench_2mm_v4\/2mm_tcl_prj\/2mm_prj\/solution1\/.debug",
+    "ProtoInst": ["\/home\/hazal\/Desktop\/PhD\/hls\/polybench_2mm_v4\/2mm_tcl_prj\/2mm_prj\/solution1\/.debug\/kernel2_2mm.protoinst"]
   },
   "SubcoreInfo": {
     "HasXpmMemory": false,
@@ -643,7 +643,7 @@
   },
   "GenData": {
     "DataVersion": "0.2",
-    "Time": "2020-08-23 22:17:21 +03",
+    "Time": "2020-08-23 23:26:30 +03",
     "ToolName": "vivado_hls",
     "ToolVersion": "2019.1"
   }

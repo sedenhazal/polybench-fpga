@@ -5,29 +5,29 @@ Running: /media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab x
 Multi-threading is on. Using 6 slave threads.
 Determining compilation order of HDL files.
 WARNING: [XSIM 43-3431] One or more environment variables have been detected which affect the operation of the C compiler. These are typically not set in standard installations and are not tested by Xilinx, however they may be appropriate for your system, so the flow will attempt to continue.  If errors occur, try running xelab with the "-mt off -v 1" switches to see more information from the C compiler. The following environment variables have been detected:
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/glbl.v" into library work
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/glbl.v" into library work
 INFO: [VRFC 10-311] analyzing module glbl
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/kernel2_2mm.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/kernel2_2mm.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module kernel2_2mm
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/AESL_automem_A.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/AESL_automem_A.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module AESL_automem_A
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/kernel2_2mm_dadd_64ns_64ns_64_5_full_dsp_1.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/kernel2_2mm_dadd_64ns_64ns_64_5_full_dsp_1.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module kernel2_2mm_dadd_64ns_64ns_64_5_full_dsp_1
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/AESL_automem_B.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/AESL_automem_B.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module AESL_automem_B
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/kernel2_2mm_dmul_64ns_64ns_64_5_max_dsp_1.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/kernel2_2mm_dmul_64ns_64ns_64_5_max_dsp_1.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module kernel2_2mm_dmul_64ns_64ns_64_5_max_dsp_1
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/AESL_automem_D.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/AESL_automem_D.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module AESL_automem_D
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/AESL_automem_tmp.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/AESL_automem_tmp.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module AESL_automem_tmp
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/AESL_automem_C.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/AESL_automem_C.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module AESL_automem_C
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/kernel2_2mm.autotb.v" into library xil_defaultlib
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/kernel2_2mm.autotb.v" into library xil_defaultlib
 INFO: [VRFC 10-311] analyzing module apatb_kernel2_2mm_top
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/ip/xil_defaultlib/kernel2_2mm_ap_dmul_3_max_dsp_64.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/ip/xil_defaultlib/kernel2_2mm_ap_dmul_3_max_dsp_64.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'kernel2_2mm_ap_dmul_3_max_dsp_64'
-INFO: [VRFC 10-163] Analyzing VHDL file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/sim/verilog/ip/xil_defaultlib/kernel2_2mm_ap_dadd_3_full_dsp_64.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/sim/verilog/ip/xil_defaultlib/kernel2_2mm_ap_dadd_3_full_dsp_64.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'kernel2_2mm_ap_dadd_3_full_dsp_64'
 Starting static elaboration
 WARNING: [VRFC 10-3499] library name 'floating_point_v7_1_8' of instantiated unit conflicts with visible identifier [ip/xil_defaultlib/kernel2_2mm_ap_dadd_3_full_dsp_64.vhd:201]

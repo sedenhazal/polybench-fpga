@@ -1,11 +1,11 @@
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c"
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c" 1
+# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c"
+# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c" 1
 # 1 "<built-in>" 1
 # 1 "<built-in>" 3
 # 149 "<built-in>" 3
 # 1 "<command line>" 1
 # 1 "<built-in>" 2
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c" 2
+# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c" 2
 # 1 "/usr/include/stdio.h" 1 3 4
 # 27 "/usr/include/stdio.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -801,7 +801,7 @@ extern int ftrylockfile (FILE *__stream) __attribute__ ((__nothrow__ )) ;
 
 
 extern void funlockfile (FILE *__stream) __attribute__ ((__nothrow__ ));
-# 2 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c" 2
+# 2 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c" 2
 # 1 "/usr/include/string.h" 1 3 4
 # 26 "/usr/include/string.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -1074,7 +1074,7 @@ extern char *__stpncpy (char *__restrict __dest,
 extern char *stpncpy (char *__restrict __dest,
         const char *__restrict __src, size_t __n)
      __attribute__ ((__nothrow__ )) __attribute__ ((__nonnull__ (1, 2)));
-# 3 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c" 2
+# 3 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c" 2
 # 1 "/usr/include/stdlib.h" 1 3 4
 # 25 "/usr/include/stdlib.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -2094,19 +2094,19 @@ extern int getloadavg (double __loadavg[], int __nelem)
 # 1016 "/usr/include/stdlib.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/stdlib-float.h" 1 3 4
 # 1017 "/usr/include/stdlib.h" 2 3 4
-# 4 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c" 2
+# 4 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c" 2
 
 
 
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/polybench.h" 1
-# 199 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/polybench.h"
+# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/polybench.h" 1
+# 199 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/polybench.h"
 extern void* polybench_alloc_data(unsigned long long int n, int elt_size);
-# 8 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c" 2
+# 8 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c" 2
 
 
 
-# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm.h" 1
-# 12 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c" 2
+# 1 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.h" 1
+# 12 "/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c" 2
 
 void kernel2_2mm(int ni, int nj, int nk, int nl,
   double alpha,

@@ -11,12 +11,7 @@
   </errorLogs>
   <warningLogs>
     <logs>
-      <synLog>
-        <logs message="WARNING: [RTGEN 206-101] Port 'kernel2_2mm/nl' has no fanin or fanout and is left dangling.&#xA;               Please use C simulation to confirm this function argument can be read from or written to." projectName="2mm_prj" solutionName="solution1" date="2020-08-23T22:17:20.681+0300" type="Warning"/>
-        <logs message="WARNING: [RTGEN 206-101] Port 'kernel2_2mm/nk' has no fanin or fanout and is left dangling.&#xA;               Please use C simulation to confirm this function argument can be read from or written to." projectName="2mm_prj" solutionName="solution1" date="2020-08-23T22:17:20.679+0300" type="Warning"/>
-        <logs message="WARNING: [RTGEN 206-101] Port 'kernel2_2mm/nj' has no fanin or fanout and is left dangling.&#xA;               Please use C simulation to confirm this function argument can be read from or written to." projectName="2mm_prj" solutionName="solution1" date="2020-08-23T22:17:20.678+0300" type="Warning"/>
-        <logs message="WARNING: [RTGEN 206-101] Port 'kernel2_2mm/ni' has no fanin or fanout and is left dangling.&#xA;               Please use C simulation to confirm this function argument can be read from or written to." projectName="2mm_prj" solutionName="solution1" date="2020-08-23T22:17:20.675+0300" type="Warning"/>
-      </synLog>
+      <synLog/>
       <simLog/>
       <mgLog/>
       <packageLog/>

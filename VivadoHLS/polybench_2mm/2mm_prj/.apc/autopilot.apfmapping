@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
   <source>
-    <originFiles name="2mm.c" path="/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm.c"/>
+    <originFiles name="2mm.c" path="/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm.c"/>
   </source>
   <testbench>
-    <originFiles name="2mm_tb.c" path="/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tb.c"/>
+    <originFiles name="2mm_tb.c" path="/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_tb.c"/>
   </testbench>
 </autopilotfilemapping:AutoPilotFileMapping>

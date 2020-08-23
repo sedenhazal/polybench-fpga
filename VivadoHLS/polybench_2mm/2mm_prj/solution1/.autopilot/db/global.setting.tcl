@@ -41,14 +41,14 @@ set SCTraceFileFormat vcd
 set SCTraceOption all
 set TargetInfo xc7k160t:-fbg484:-2
 set SourceFiles {sc {} c ../../2mm.c}
-set SourceFlags {sc {} c {{}}}
-set DirectiveFile /home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/solution1.directive
-set TBFiles {verilog ../../2mm_tb.c bc ../../2mm_tb.c vhdl ../../2mm_tb.c sc ../../2mm_tb.c cas ../../2mm_tb.c c {}}
+set SourceFlags {sc {} c {{ } {}}}
+set DirectiveFile /home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_tcl_prj/2mm_prj/solution1/solution1.directive
+set TBFiles {verilog ../../2mm_tb.c bc ../../2mm_tb.c sc ../../2mm_tb.c vhdl ../../2mm_tb.c c {} cas ../../2mm_tb.c}
 set SpecLanguage C
 set TVInFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}
 set TVOutFiles {bc {} c {} sc {} cas {} vhdl {} verilog {}}
-set TBTops {verilog {} bc {} vhdl {} sc {} cas {} c {}}
-set TBInstNames {verilog {} bc {} vhdl {} sc {} cas {} c {}}
+set TBTops {verilog {} bc {} sc {} vhdl {} c {} cas {}}
+set TBInstNames {verilog {} bc {} sc {} vhdl {} c {} cas {}}
 set XDCFiles {}
 set ExtraGlobalOptions {"area_timing" 1 "clock_gate" 1 "impl_flow" map "power_gate" 0}
 set TBTVFileNotFound {}

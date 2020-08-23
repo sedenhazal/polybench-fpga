@@ -57,6 +57,7 @@ IFLAG += -D__SIM_FIR__
 IFLAG += -D__SIM_DDS__
 
 IFLAG += -D__DSP48E1__
+IFLAG += -Wno-unknown-pragmas 
 IFLAG += -g
 DFLAG += -DAUTOCC
 DFLAG += -D__xilinx_ip_top= -DAESL_TB
@@ -75,7 +76,7 @@ AUTOCC := apcc
 
 $(ObjDir)/2mm_tb.o: ../../../../2mm_tb.c $(ObjDir)/.dir
 	$(Echo) "   Compiling(apcc) ../../../../2mm_tb.c in $(BuildMode) mode" $(AVE_DIR_DLOG)
-	$(Verb)  $(AUTOCC) -c -MMD  $(IFLAG) $(DFLAG) $< -o $@ ; \
+	$(Verb)  $(AUTOCC) -c -MMD -Wno-unknown-pragmas -Wno-unknown-pragmas  $(IFLAG) $(DFLAG) $< -o $@ ; \
 
 -include $(ObjDir)/2mm_tb.d
 
