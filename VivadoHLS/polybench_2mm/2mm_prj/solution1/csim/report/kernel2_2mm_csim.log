@@ -1,0 +1,30 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling(apcc) ../../../../2mm_tb.c in debug mode
+INFO: [HLS 200-10] Running '/media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'hazal' on host 'hazal' (Linux_x86_64 version 5.4.0-42-generic) on Sun Aug 23 22:16:46 +03 2020
+INFO: [HLS 200-10] On os Ubuntu 18.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/csim/build'
+../../../../2mm_tb.c:101:48: warning: implicitly declaring library function 'pow' with type 'double (double, double)'
+                double diff = abs(D[i][j] - swref_d[i][j]) / pow(10, dig_num - 3);
+                                                             ^
+../../../../2mm_tb.c:101:48: note: please include the header <math.h> or explicitly provide a declaration for 'pow'
+1 warning generated.
+../../../../2mm_tb.c:101:48: warning: implicitly declaring library function 'pow' with type 'double (double, double)'
+                double diff = abs(D[i][j] - swref_d[i][j]) / pow(10, dig_num - 3);
+                                                             ^
+../../../../2mm_tb.c:101:48: note: please include the header <math.h> or explicitly provide a declaration for 'pow'
+1 warning generated.
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_hazal/72521598210206843543
+INFO: [APCC 202-1] APCC is done.
+   Compiling(apcc) ../../../../2mm.c in debug mode
+INFO: [HLS 200-10] Running '/media/hazal/storage/xilinx/Vivado/2019.1/bin/unwrapped/lnx64.o/apcc'
+INFO: [HLS 200-10] For user 'hazal' on host 'hazal' (Linux_x86_64 version 5.4.0-42-generic) on Sun Aug 23 22:16:55 +03 2020
+INFO: [HLS 200-10] On os Ubuntu 18.04.4 LTS
+INFO: [HLS 200-10] In directory '/home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/csim/build'
+INFO: [APCC 202-3] Tmp directory is /tmp/apcc_db_hazal/73251598210215158617
+INFO: [APCC 202-1] APCC is done.
+   Generating csim.exe
+There are 0 error(s) -> test PASSED
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

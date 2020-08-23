@@ -1,0 +1,1 @@
+set ::AESL_AUTOSIM::gTopFileName /home/hazal/Desktop/PhD/hls/polybench_2mm_v4/2mm_prj/solution1/./sim/autowrap/testbench/2mm.c_pre.c.tb.c
